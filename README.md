@@ -1,6 +1,7 @@
 ## Project Overview
 
 The UPI QR Code Generator is a React-based tool that allows users to create QR codes for UPI payments. It provides a simple user interface for entering the recipient's UPI ID, the payment amount, and an optional message. The generated QR code can be downloaded as a PNG image, making it convenient for users to share payment details.
+live demo at [demo](https://upi-qrcode-generator-hardikmetaliya.netlify.app/)
 
 ## How to Use
 
